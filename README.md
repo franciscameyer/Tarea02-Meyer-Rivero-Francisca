@@ -1,4 +1,3 @@
-# Tarea02-Meyer-Rivero-Francisca
 # Integrantes del Grupo
 - Francisca Meyer Rivero
   - Correo: francisca.meyer@alumnos.uv.cl
