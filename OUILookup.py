@@ -4,7 +4,6 @@ import subprocess
 import argparse
 import os
 import re
-
 # Función para obtener los datos de fabricación de una tarjeta de red por IP
 def obtener_datos_por_ip(ip):
     try:
